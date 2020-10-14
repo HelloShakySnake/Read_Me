@@ -1,3 +1,5 @@
 # Read Me! :metal:
 
-Hi there! There's not much here right now, not sure why you're reading this xD
+Hi there! Friendly noob here!
+Intermediate at: HTML, CSS, PYTHON
+Beginner at: JavaScript
